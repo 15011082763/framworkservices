@@ -9,7 +9,7 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["FramworkServices/FramworkServices.csproj", "FramworkServices/"]
 RUN dotnet restore "FramworkServices/FramworkServices.csproj"
-COPY . .
+COPY . . 
 WORKDIR "/src/FramworkServices"
 RUN dotnet build "FramworkServices.csproj" -c Release -o /app/build
 
