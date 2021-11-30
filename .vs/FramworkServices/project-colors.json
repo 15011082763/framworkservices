@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17c44ca6-c0ab-40ca-807c-2c54c6054776": {
+      "ProjectGuid": "17c44ca6-c0ab-40ca-807c-2c54c6054776",
+      "DisplayName": "FramworkServices",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

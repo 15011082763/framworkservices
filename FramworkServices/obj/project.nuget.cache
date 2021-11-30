@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNxEOgxWfzmeV37TvT6PtJq+ARY1tfpoeiFS+YLSadydlgB51yV3R7vOMGc5K+kZ1pKbxnJ+9+yEs2X/H0nFtw==",
+  "success": true,
+  "projectFilePath": "E:\\studentcode\\FramworkServices\\FramworkServices\\FramworkServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23796\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
